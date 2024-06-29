@@ -22,7 +22,7 @@
 
 4. Start the application:
     ```sh
-    npm start
+    npm run serve
     ```
 
 5. Open your browser and navigate to `http://localhost:7000`.
