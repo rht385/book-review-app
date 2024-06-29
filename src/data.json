@@ -1,0 +1,492 @@
+[
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://example.com/images/brave-new-world.jpg",
+    "description": "A dystopian novel that explores the consequences of a technologically advanced and socially controlled society.",
+    "publishedYear": 1932
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "image": "https://example.com/images/wuthering-heights.jpg",
+    "description": "A tale of the intense and destructive love between Catherine Earnshaw and Heathcliff.",
+    "publishedYear": 1847
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://example.com/images/the-lord-of-the-rings.jpg",
+    "description": "An epic fantasy adventure that follows the quest to destroy the One Ring.",
+    "publishedYear": 1954
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "description": "A fantasy novel that follows the journey of Bilbo Baggins as he aids in a quest to reclaim a lost kingdom.",
+    "publishedYear": 1937
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "image": "https://example.com/images/anna-karenina.jpg",
+    "description": "A novel that portrays the tragic love affair between Anna Karenina and Count Vronsky.",
+    "publishedYear": 1877
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "image": "https://example.com/images/one-hundred-years-of-solitude.jpg",
+    "description": "A multi-generational story that follows the Buendía family in the fictional town of Macondo.",
+    "publishedYear": 1967
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "image": "https://example.com/images/the-grapes-of-wrath.jpg",
+    "description": "A novel that follows the Joad family as they travel to California during the Great Depression.",
+    "publishedYear": 1939
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "image": "https://example.com/images/madame-bovary.jpg",
+    "description": "A novel that explores the life of a doctor's wife who has adulterous affairs and lives beyond her means.",
+    "publishedYear": 1857
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "image": "https://example.com/images/don-quixote.jpg",
+    "description": "A story of the adventures of a man who believes he is a knight and his loyal squire, Sancho Panza.",
+    "publishedYear": 1605
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "image": "https://example.com/images/the-divine-comedy.jpg",
+    "description": "An epic poem that describes Dante's journey through Hell, Purgatory, and Heaven.",
+    "publishedYear": 1320
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "image": "https://example.com/images/les-miserables.jpg",
+    "description": "A novel that explores the lives of several characters, particularly the ex-convict Jean Valjean, in post-revolutionary France.",
+    "publishedYear": 1862
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "image": "https://example.com/images/the-iliad.jpg",
+    "description": "An epic poem that tells the story of the last weeks of the Trojan War.",
+    "publishedYear": -750
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "image": "https://example.com/images/great-expectations.jpg",
+    "description": "A novel that follows the life of an orphan named Pip as he grows up and learns about life and society.",
+    "publishedYear": 1861
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "image": "https://example.com/images/the-picture-of-dorian-gray.jpg",
+    "description": "A novel that tells the story of a man whose portrait ages while he remains young and beautiful.",
+    "publishedYear": 1890
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "image": "https://example.com/images/the-count-of-monte-cristo.jpg",
+    "description": "A novel that tells the story of Edmond Dantès's betrayal, imprisonment, and revenge.",
+    "publishedYear": 1844
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://example.com/images/frankenstein.jpg",
+    "description": "A novel that tells the story of Victor Frankenstein and his creation, a creature known as the Monster.",
+    "publishedYear": 1818
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "image": "https://example.com/images/the-stranger.jpg",
+    "description": "A novel that explores the absurdity of human existence through the eyes of its protagonist, Meursault.",
+    "publishedYear": 1942
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "image": "https://example.com/images/a-tale-of-two-cities.jpg",
+    "description": "A novel that tells the story of the French Revolution through the lives of several characters.",
+    "publishedYear": 1859
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "image": "https://example.com/images/dracula.jpg",
+    "description": "A novel that tells the story of Count Dracula's attempt to move from Transylvania to England.",
+    "publishedYear": 1897
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "image": "https://example.com/images/the-adventures-of-huckleberry-finn.jpg",
+    "description": "A novel that tells the story of Huck Finn and his journey down the Mississippi River.",
+    "publishedYear": 1884
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "image": "https://example.com/images/the-adventures-of-sherlock-holmes.jpg",
+    "description": "A collection of short stories that follow the adventures of the detective Sherlock Holmes and his friend Dr. Watson.",
+    "publishedYear": 1892
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "image": "https://example.com/images/fahrenheit-451.jpg",
+    "description": "A dystopian novel that explores a future where books are banned and 'firemen' burn them.",
+    "publishedYear": 1953
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "image": "https://example.com/images/lolita.jpg",
+    "description": "A novel that tells the story of a middle-aged man who becomes obsessed with a 12-year-old girl.",
+    "publishedYear": 1955
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "image": "https://example.com/images/the-metamorphosis.jpg",
+    "description": "A novella that tells the story of a man who wakes up one morning to find himself transformed into a giant insect.",
+    "publishedYear": 1915
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "image": "https://example.com/images/catch-22.jpg",
+    "description": "A novel that follows the experiences of a bombardier in World War II and explores the absurdities of war.",
+    "publishedYear": 1961
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "image": "https://example.com/images/beloved.jpg",
+    "description": "A novel that tells the story of a runaway slave and her struggle to confront her past.",
+    "publishedYear": 1987
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "image": "https://example.com/images/moby-dick.jpg",
+    "description": "A narrative of the adventures of Captain Ahab in pursuit of Moby Dick, a great white whale.",
+    "publishedYear": 1851
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "image": "https://example.com/images/war-and-peace.jpg",
+    "description": "A novel that chronicles the history of the French invasion of Russia and its impact on Tsarist society.",
+    "publishedYear": 1869
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "image": "https://example.com/images/the-odyssey.jpg",
+    "description": "An epic poem that follows the journey of Odysseus as he returns home from the Trojan War.",
+    "publishedYear": -800
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "image": "https://example.com/images/ulysses.jpg",
+    "description": "A modernist novel that chronicles the experiences of Leopold Bloom in Dublin on June 16, 1904.",
+    "publishedYear": 1922
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "image": "https://example.com/images/the-brothers-karamazov.jpg",
+    "description": "A philosophical novel that explores the moral struggles of the Karamazov family.",
+    "publishedYear": 1880
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "image": "https://example.com/images/crime-and-punishment.jpg",
+    "description": "A psychological drama that delves into the mind of a young murderer.",
+    "publishedYear": 1866
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "image": "https://example.com/images/jane-eyre.jpg",
+    "description": "A novel that follows the experiences of the eponymous heroine, including her growth to adulthood and love for Mr. Rochester.",
+    "publishedYear": 1847
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://example.com/images/brave-new-world.jpg",
+    "description": "A dystopian novel that explores the consequences of a technologically advanced and socially controlled society.",
+    "publishedYear": 1932
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "image": "https://example.com/images/wuthering-heights.jpg",
+    "description": "A tale of the intense and destructive love between Catherine Earnshaw and Heathcliff.",
+    "publishedYear": 1847
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://example.com/images/the-lord-of-the-rings.jpg",
+    "description": "An epic fantasy adventure that follows the quest to destroy the One Ring.",
+    "publishedYear": 1954
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "description": "A fantasy novel that follows the journey of Bilbo Baggins as he aids in a quest to reclaim a lost kingdom.",
+    "publishedYear": 1937
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "image": "https://example.com/images/anna-karenina.jpg",
+    "description": "A novel that portrays the tragic love affair between Anna Karenina and Count Vronsky.",
+    "publishedYear": 1877
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "image": "https://example.com/images/one-hundred-years-of-solitude.jpg",
+    "description": "A multi-generational story that follows the Buendía family in the fictional town of Macondo.",
+    "publishedYear": 1967
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "image": "https://example.com/images/the-grapes-of-wrath.jpg",
+    "description": "A novel that follows the Joad family as they travel to California during the Great Depression.",
+    "publishedYear": 1939
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "image": "https://example.com/images/madame-bovary.jpg",
+    "description": "A novel that explores the life of a doctor's wife who has adulterous affairs and lives beyond her means.",
+    "publishedYear": 1857
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "image": "https://example.com/images/don-quixote.jpg",
+    "description": "A story of the adventures of a man who believes he is a knight and his loyal squire, Sancho Panza.",
+    "publishedYear": 1605
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "image": "https://example.com/images/the-divine-comedy.jpg",
+    "description": "An epic poem that describes Dante's journey through Hell, Purgatory, and Heaven.",
+    "publishedYear": 1320
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "image": "https://example.com/images/les-miserables.jpg",
+    "description": "A novel that explores the lives of several characters, particularly the ex-convict Jean Valjean, in post-revolutionary France.",
+    "publishedYear": 1862
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "image": "https://example.com/images/the-iliad.jpg",
+    "description": "An epic poem that tells the story of the last weeks of the Trojan War.",
+    "publishedYear": -750
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "image": "https://example.com/images/great-expectations.jpg",
+    "description": "A novel that follows the life of an orphan named Pip as he grows up and learns about life and society.",
+    "publishedYear": 1861
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "image": "https://example.com/images/the-picture-of-dorian-gray.jpg",
+    "description": "A novel that tells the story of a man whose portrait ages while he remains young and beautiful.",
+    "publishedYear": 1890
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "image": "https://example.com/images/the-count-of-monte-cristo.jpg",
+    "description": "A novel that tells the story of Edmond Dantès's betrayal, imprisonment, and revenge.",
+    "publishedYear": 1844
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://example.com/images/frankenstein.jpg",
+    "description": "A novel that tells the story of Victor Frankenstein and his creation, a creature known as the Monster.",
+    "publishedYear": 1818
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "image": "https://example.com/images/the-stranger.jpg",
+    "description": "A novel that explores the absurdity of human existence through the eyes of its protagonist, Meursault.",
+    "publishedYear": 1942
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "image": "https://example.com/images/a-tale-of-two-cities.jpg",
+    "description": "A novel that tells the story of the French Revolution through the lives of several characters.",
+    "publishedYear": 1859
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "image": "https://example.com/images/dracula.jpg",
+    "description": "A novel that tells the story of Count Dracula's attempt to move from Transylvania to England.",
+    "publishedYear": 1897
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "image": "https://example.com/images/the-adventures-of-huckleberry-finn.jpg",
+    "description": "A novel that tells the story of Huck Finn and his journey down the Mississippi River.",
+    "publishedYear": 1884
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "image": "https://example.com/images/the-adventures-of-sherlock-holmes.jpg",
+    "description": "A collection of short stories that follow the adventures of the detective Sherlock Holmes and his friend Dr. Watson.",
+    "publishedYear": 1892
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "image": "https://example.com/images/fahrenheit-451.jpg",
+    "description": "A dystopian novel that explores a future where books are banned and 'firemen' burn them.",
+    "publishedYear": 1953
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "image": "https://example.com/images/lolita.jpg",
+    "description": "A novel that tells the story of a middle-aged man who becomes obsessed with a 12-year-old girl.",
+    "publishedYear": 1955
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "image": "https://example.com/images/the-metamorphosis.jpg",
+    "description": "A novella that tells the story of a man who wakes up one morning to find himself transformed into a giant insect.",
+    "publishedYear": 1915
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "image": "https://example.com/images/catch-22.jpg",
+    "description": "A novel that follows the experiences of a bombardier in World War II and explores the absurdities of war.",
+    "publishedYear": 1961
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "image": "https://example.com/images/beloved.jpg",
+    "description": "A novel that tells the story of a runaway slave and her struggle to confront her past.",
+    "publishedYear": 1987
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "image": "https://example.com/images/the-sun-also-rises.jpg",
+    "description": "A novel that follows a group of expatriates in the 1920s as they travel from Paris to Spain.",
+    "publishedYear": 1926
+  },
+  {
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "image": "https://example.com/images/on-the-road.jpg",
+    "description": "A novel that follows the travels of the narrator and his friends across the United States.",
+    "publishedYear": 1957
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "image": "https://example.com/images/gone-with-the-wind.jpg",
+    "description": "A novel that tells the story of Scarlett O'Hara and her struggles during the American Civil War and Reconstruction.",
+    "publishedYear": 1936
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://example.com/images/the-catcher-in-the-rye.jpg",
+    "description": "A novel that explores complex themes of teenage angst and alienation.",
+    "publishedYear": 1951
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "image": "https://example.com/images/slaughterhouse-five.jpg",
+    "description": "A novel that blends elements of science fiction with a semi-autobiographical account of the bombing of Dresden in World War II.",
+    "publishedYear": 1969
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "image": "https://example.com/images/the-sound-and-the-fury.jpg",
+    "description": "A novel that explores the decline of the Compson family through the perspectives of its members.",
+    "publishedYear": 1929
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "image": "https://example.com/images/of-mice-and-men.jpg",
+    "description": "A novella that tells the story of two displaced ranch workers during the Great Depression.",
+    "publishedYear": 1937
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "image": "https://example.com/images/the-old-man-and-the-sea.jpg",
+    "description": "A novel that tells the story of an aging Cuban fisherman who struggles with a giant marlin far out in the Gulf Stream.",
+    "publishedYear": 1952
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "image": "https://example.com/images/east-of-eden.jpg",
+    "description": "A novel that follows the lives of two families in California's Salinas Valley.",
+    "publishedYear": 1952
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "image": "https://example.com/images/the-grapes-of-wrath.jpg",
+    "description": "A novel that follows the Joad family as they travel to California during the Great Depression.",
+    "publishedYear": 1939
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "image": "https://example.com/images/moby-dick.jpg",
+    "description": "A narrative of the adventures of Captain Ahab in pursuit of Moby Dick, a great white whale.",
+    "publishedYear": 1851
+  }
+]
