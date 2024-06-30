@@ -15,13 +15,14 @@ exports.createReview = async (req, res) => {
     try {
         const book = await Book.findById(req.params.bookId);
         if (!book) return res.status(404).json({ message: 'Book not found' });
-
+      
         const user = await User.findById(req.query.userId);
+    
         if (!user) return res.status(404).json({ message: 'User not found' });
 
         const review = new Review({
             book: req.params.bookId,
-            user: req.query.userId,
+            user: user._id,
             rating: req.body.rating,
             comment: req.body.comment
         });
